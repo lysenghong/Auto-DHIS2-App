@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "urls": {
+    "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/ឈ្មោះ_បង/ឈ្មោះ_Repo/main/automation.cp312-win_amd64.pyd",
+    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/ឈ្មោះ_បង/ឈ្មោះ_Repo/main/excel_work.cp312-win_amd64.pyd"
+  }
+}
