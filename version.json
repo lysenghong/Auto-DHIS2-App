@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.0",
   "urls": {
     "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/automation.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
