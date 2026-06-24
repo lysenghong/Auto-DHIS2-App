@@ -1,8 +1,6 @@
 {
   "version": "1.0.6",
-  "changelog": "អាប់ដេតថ្មី! (New Update) 
-  🤖AI កាន់តែឆ្លាត​ និងច្បាស់លាស់ទៅលើការប្ដួរ Diagnosis ដែល Error!
-  ដំណើរការកម្មវិធីកាន់តែរលូន!",
+  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖AI កាន់តែឆ្លាត​ និងច្បាស់លាស់ទៅលើការប្ដួរ Diagnosis ដែល Error។ ដំណើរការកម្មវិធីកាន់តែរលូន!",
   "urls": {
     "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/automation.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
