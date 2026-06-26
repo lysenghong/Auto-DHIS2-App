@@ -6,6 +6,6 @@
     "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
     "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
     "ui.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/ui.cp312-win_amd64.pyd",
-    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
+    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd"
   }
 }
