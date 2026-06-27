@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 ជួសជុលមុខងារ AI Fix DX គាំង, 🔄 បន្ថែមវគ្គចុចស្វ័យប្រវត្តិដល់កន្លែងជ្រើសយកខែតែម្ដង!!!",
   "urls": {
     "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/automation.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
     "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
     "ui.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/ui.cp312-win_amd64.pyd",
-    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd"
+    "login.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd"
   }
 }
