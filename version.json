@@ -6,8 +6,8 @@
     "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
     "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
     "ui.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/ui.cp312-win_amd64.pyd",
-    "full_icd_pmrs.xlsx": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/blob/main/full_icd_pmrs.xlsx",
     "auto_update.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/blob/main/auto_update.cp312-win_amd64.pyd",
-    "login.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd"
+    "login.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd",
+    "full_icd_pmrs.xlsx": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/blob/main/full_icd_pmrs.xlsx"
   }
 }
