@@ -1,13 +1,13 @@
 {
-  "version": "1.0.9",
-  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 ជួសជុលមុខងារ AI Fix DX គាំង, 🔄 បន្ថែមវគ្គចុចស្វ័យប្រវត្តិដល់កន្លែងជ្រើសយកខែតែម្ដង!!!",
+  "version": "1.0.8",
+  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 ជួសជុលមុខងារ AI...",
   "urls": {
-    "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/automation.cp312-win_amd64.pyd",
-    "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
-    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
-    "ui.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/ui.cp312-win_amd64.pyd",
-    "auto_update.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/auto_update.cp312-win_amd64.pyd",
-    "login.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/login.cp312-win_amd64.pyd",
-    "full_icd_pmrs.xlsx": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/full_icd_pmrs.xlsx"
+    "automation.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/automation.cp312-win_amd64.pyd",
+    "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/app_core.cp312-win_amd64.pyd",
+    "excel_work.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/excel_work.cp312-win_amd64.pyd",
+    "ui.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/ui.cp312-win_amd64.pyd",
+    "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/auto_update.cp312-win_amd64.pyd",
+    "login.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/login.cp312-win_amd64.pyd",
+    "full_icd_pmrs.xlsx": "https://github.com/lysenghong/Auto-DHIS2-App/releases/download/latest/full_icd_pmrs.xlsx"
   }
 }
