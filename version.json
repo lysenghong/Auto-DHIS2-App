@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 ជួសជុលមុខងារ AI មិនអោយ AI បកប្រែអត្ថន័យរបស់ ICD10 ទេ​ និងប្ដូរពីធម្មតាទៅបិទកុំព្យូទ័រ",
+  "version": "1.1.0",
+  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 update new security method and user warning before close the app after done",
   "urls": {
     "automation.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/automation.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/app_core.cp312-win_amd64.pyd",
@@ -8,6 +8,7 @@
     "ui.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/ui.cp312-win_amd64.pyd",
     "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/auto_update.cp312-win_amd64.pyd",
     "login.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/login.cp312-win_amd64.pyd",
+    "telegram_error_report.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/telegram_error_report.cp312-win_amd64.pyd",
     "full_icd_pmrs.xlsx": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/full_icd_pmrs.xlsx"
   }
 }
